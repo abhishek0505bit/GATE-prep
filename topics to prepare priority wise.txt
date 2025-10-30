@@ -1,0 +1,12 @@
+| **Priority** | **Subject**                                    | **Weightage** | **Difficulty** | **Why It’s High Priority**                           |
+| ------------ | ---------------------------------------------- | ------------- | -------------- | ---------------------------------------------------- |
+| 🥇 1         | **General Aptitude**                           | 15 marks      | ⭐              | Very easy, repeated patterns, guaranteed marks       |
+| 🥈 2         | **DBMS**                                       | 6–8 marks     | ⭐              | Simple logic, real-world relatable, direct questions |
+| 🥉 3         | **Digital Logic**                              | 4–6 marks     | ⭐⭐             | Small syllabus, formula-based, high accuracy         |
+| 🏅 4         | **Discrete Mathematics**                       | 6–8 marks     | ⭐⭐             | Conceptual, but super scoring once understood        |
+| 🏅 5         | **Computer Networks**                          | 7–9 marks     | ⭐⭐             | Theoretical + direct; easy to visualize              |
+| 🏅 6         | **Operating Systems**                          | 8–10 marks    | ⭐⭐             | Logical, limited topics repeat every year            |
+| 🎯 7         | **Data Structures & Algorithms**               | 8–12 marks    | ⭐⭐⭐            | Moderate but core; needs problem-solving practice    |
+| 🧩 8         | **Computer Organization & Architecture (COA)** | 7–9 marks     | ⭐⭐⭐⭐           | Concept-heavy; needs numerical practice              |
+| 🧠 9         | **Theory of Computation (TOC)**                | 7–9 marks     | ⭐⭐⭐⭐           | Abstract; takes time to develop intuition            |
+| 🧮 10        | **Engineering Mathematics (advanced)**         | 10–13 marks   | ⭐⭐⭐            | Scoring but long; do once concepts are clear         |
