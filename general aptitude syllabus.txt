@@ -1,0 +1,23 @@
+Verbal Aptitude	:
+English grammar
+Vocabularies
+Reading and comprehension
+Narrative sequencing
+
+Quantitative Aptitude	:
+Data interpretation
+2 & 3-dimensional plots
+Maps & tables
+Numerical computation & estimation that includes ratios, percentages, powers, exponents & logarithms
+Permutations & combinations
+Mensuration & geometry
+Elementary statistics & probability
+
+Analytical Aptitude	:
+Logic: Deduction & induction Analogy
+Numerical relations & reasoning
+
+Spatial Aptitude	:
+Transformation of shapes like translation, mirroring , rotation & scaling
+Assembling & grouping
+Paper folding, cutting, and patterns (2 & 3 dimensions)
