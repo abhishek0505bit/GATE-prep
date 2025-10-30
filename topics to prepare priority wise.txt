@@ -10,3 +10,21 @@
 | 🧩 8         | **Computer Organization & Architecture (COA)** | 7–9 marks     | ⭐⭐⭐⭐           | Concept-heavy; needs numerical practice              |
 | 🧠 9         | **Theory of Computation (TOC)**                | 7–9 marks     | ⭐⭐⭐⭐           | Abstract; takes time to develop intuition            |
 | 🧮 10        | **Engineering Mathematics (advanced)**         | 10–13 marks   | ⭐⭐⭐            | Scoring but long; do once concepts are clear         |
+
+
+
+Best resources to prepare for the given subjects.. or you can go through the gate previous year question paper and prepare the questions accordingly..
+
+| **Subject**      | **Best Resource**                   |
+| ---------------- | ----------------------------------- |
+| Aptitude         | MadeEasy / GateForum booklets       |
+| DBMS             | Gate Smashers (YouTube)             |
+| Digital Logic    | Neso Academy (YouTube)              |
+| Discrete Math    | Gate Smashers / NPTEL               |
+| CN               | Neso Academy / Gate Smashers        |
+| OS               | Knowledge Gate / Gate Smashers      |
+| DSA              | GeeksforGeeks + Gate Smashers       |
+| COA              | Gate Smashers / Ravindrababu Ravula |
+| TOC              | Gate Smashers / Ravindrababu Ravula |
+| Engineering Math | NPTEL lectures + GateBook           |
+
